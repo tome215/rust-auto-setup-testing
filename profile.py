@@ -57,6 +57,8 @@ pc.defineParameter("physType",  "Optional physical node type",
 #                    "you do not need to change this, but we provide the option just in case your software " +
 #                    "is finicky.")
 
+####################
+
 # Retrieve the values the user specifies during instantiation.
 params = pc.bindParameters()
 
